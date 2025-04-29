@@ -10,13 +10,14 @@ import { Component } from '@angular/core';
 export class ProjectsComponent {
   projects = [
     {
-      title: 'Media Management Platform',
+      title: 'KIIT Rentals',
       description: [
-        'This project aimed to tackle the complexities of media planning across diverse channels, where challenges such as errors and compliance issues frequently arise. These hurdles often result in time-consuming tasks and potential regulatory risks, diverting attention away from strategic thinking and creative endeavours.',
-        'Our objective was to streamline the media planning process, minimizing errors and ensuring compliance, allowing teams to focus on strategic decision-making and creativity.'
+        'Designed a feature-rich MERN-based e-commerce platform for buying, selling, and renting products.',
+        'Implemented automated product unlisting, achieving a 60 percent delisting rate in 2 weeks.',
+        'Scaled to 100+ active users and 50+ monthly transactions'
       ],
-      techStack: ['Angular', '.NET Framework', 'SQL Server', 'Microsoft IIS', 'Firebase', 'CI/CD'],
-      image: '/assets/media-management-platform.webp',
+      techStack: ['React', 'Express.js', 'Node', 'Typescript', 'Mongodb', 'JWT-Auth'],
+      image: '/assets/kiit-ren.jpg',
       aosImage: 'fade-right'
     },
     {
