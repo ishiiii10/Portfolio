@@ -40,11 +40,11 @@ npm run serve:ssr
 
 ## 🌐 Demo
 
-Check out the site: [https://darshanbhuva.vercel.app](https://darshanbhuva.vercel.app/)
+Check out the site: [https://ishikagupta.vercel.app](https://darshanbhuva.vercel.app/)
 
 ## 📧 Contact
 
 For questions or feedback, feel free to reach out:
-- **Email**: [darshanbhuva57@gmail.com](mailto:ishiii25arya@gmail.com)
-- **LinkedIn**: [darshan-bhuva](https://www.linkedin.com/in/ishika-gupta-242792303/)
-- **GitHub**: [darshn20](https://github.com/ishiiii10)
+- **Email**: [ishiii25@gmail.com](mailto:ishiii25arya@gmail.com)
+- **LinkedIn**: [ishika-gupta](https://www.linkedin.com/in/ishika-gupta-242792303/)
+- **GitHub**: [ishiiii10](https://github.com/ishiiii10)
