@@ -21,7 +21,7 @@ export class ProjectsComponent {
       aosImage: 'fade-right'
     },
     {
-      title: 'Smile Analysis Web Application',
+      title: 'Smart Apply',
       description: [
         'Developed and deployed a smile detection application for elderly residents in Japanese old age homes using computer vision and machine learning algorithms.',
         'Designed and implemented a user-friendly interface using Angular with Flask backend to analyze smiles in real-time.'
