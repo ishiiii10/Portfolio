@@ -41,7 +41,7 @@ export class ProjectsComponent {
       aosImage: 'fade-right'
     },
     {
-      title: 'DocuQuery AI',
+      title: 'Fuel Efficiency Tracker',
       description: [
         'Developed an AI-powered document query system allowing users to upload PDFs and ask questions based on the document content.',
         'Designed and integrated an Angular-based frontend with a Flask backend for seamless document processing.',
