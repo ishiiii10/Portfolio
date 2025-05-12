@@ -43,7 +43,7 @@ export class ProjectsComponent {
     {
       title: 'Fuel Efficiency Tracker',
       description: [
-        'Developed an AI-powered document query system allowing users to upload PDFs and ask questions based on the document content.',
+        'Developed an AI-powered Fuel Effiuciencer query system allowing users to upload PDFs and ask questions based on the document content.',
         'Designed and integrated an Angular-based frontend with a Flask backend for seamless document processing.',
         'Implemented role-based access control, ensuring only authorized users can manage documents.'
       ],
