@@ -12,9 +12,9 @@ export class ProjectsComponent {
     {
       title: 'RepoLens:AI-Powered GitHub Repository Summarizer & Documentation Generator',
       description: [
-        'It is a web app that analyzes GitHub repositories using AI (CodeT5/StarCoder) to generate detailed project summaries and documentation automatically.',
-        'It extracts the tech stack, explains code structure, and creates README.md files to make undocumented or complex codebases easier to understand.',
-        'Built with React, Tailwind CSS, and Hugging Face models, CodexLens helps developers quickly grasp the purpose and logic behind any public repo.'
+        'Developed an AI-powered documentation tool that analyzes GitHub repositories using CodeT5/StarCoder models.',
+        'Automated generation of README.md files with project summaries, tech stack identification, and code structure insights.',
+        'Built with Hugging Face Transformers; integrated GitHub API for live repo parsing.'
       ],
       techStack: ['React', 'Express.js', 'Node', 'Typescript', 'Mongodb', 'JWT-Auth'],
       image: '/assets/kiit-ren.jpg',
@@ -53,6 +53,28 @@ export class ProjectsComponent {
     },
     {
       title: 'Fuel Efficiency Tracker',
+      description: [
+        'Developed an AI-powered Fuel Effiuciencer query system allowing users to upload PDFs and ask questions based on the document content.',
+        'Designed and integrated an Angular-based frontend with a Flask backend for seamless document processing.',
+        'Implemented role-based access control, ensuring only authorized users can manage documents.'
+      ],
+      techStack: ['Angular', 'Tailwind CSS', 'Flask (Python)', 'MongoDB', 'AWS'],
+      image: '/assets/docu-query-ai.webp',
+      aosImage: 'fade-left'
+    },
+    {
+      title: 'Task Manager',
+      description: [
+        'Developed an AI-powered Fuel Effiuciencer query system allowing users to upload PDFs and ask questions based on the document content.',
+        'Designed and integrated an Angular-based frontend with a Flask backend for seamless document processing.',
+        'Implemented role-based access control, ensuring only authorized users can manage documents.'
+      ],
+      techStack: ['Angular', 'Tailwind CSS', 'Flask (Python)', 'MongoDB', 'AWS'],
+      image: '/assets/docu-query-ai.webp',
+      aosImage: 'fade-left'
+    },
+    {
+      title: 'Pokedex',
       description: [
         'Developed an AI-powered Fuel Effiuciencer query system allowing users to upload PDFs and ask questions based on the document content.',
         'Designed and integrated an Angular-based frontend with a Flask backend for seamless document processing.',
