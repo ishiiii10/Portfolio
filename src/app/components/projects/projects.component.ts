@@ -17,7 +17,7 @@ export class ProjectsComponent {
         'Built with Hugging Face Transformers; integrated GitHub API for live repo parsing.'
       ],
       techStack: ['React', 'Express.js', 'Node', 'Typescript', 'Mongodb', 'JWT-Auth'],
-      image: '/assets/kiit-ren.jpg',
+      image: '/assets/git.png',
       aosImage: 'fade-right'
     },
     {
@@ -59,7 +59,7 @@ export class ProjectsComponent {
         'Implemented role-based access control, ensuring only authorized users can manage documents.'
       ],
       techStack: ['Angular', 'Tailwind CSS', 'Flask (Python)', 'MongoDB', 'AWS'],
-      image: '/assets/docu-query-ai.webp',
+      image: '/assets/Fuel.png',
       aosImage: 'fade-left'
     },
     {
