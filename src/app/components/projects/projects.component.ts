@@ -38,7 +38,7 @@ export class ProjectsComponent {
         'Designed and implemented a user-friendly interface using Angular with Flask backend to analyze smiles in real-time.'
       ],
       techStack: ['Angular', 'Python', 'SQL Server', 'AWS'],
-      image: '/assets/apply.png',
+      image: '/assets/SmartApply.png',
       aosImage: 'fade-left'
     },
     {
