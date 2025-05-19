@@ -38,7 +38,7 @@ export class ProjectsComponent {
         'Designed and implemented a user-friendly interface using Angular with Flask backend to analyze smiles in real-time.'
       ],
       techStack: ['Angular', 'Python', 'SQL Server', 'AWS'],
-      image: '/assets/SmartApply.png',
+      image: '/assets/apply.png',
       aosImage: 'fade-left'
     },
     {
@@ -70,7 +70,7 @@ export class ProjectsComponent {
         'Implemented role-based access control, ensuring only authorized users can manage documents.'
       ],
       techStack: ['Angular', 'Tailwind CSS', 'Flask (Python)', 'MongoDB', 'AWS'],
-      image: '/assets/docu-query-ai.webp',
+      image: '/assets/task.png',
       aosImage: 'fade-left'
     },
     {
@@ -81,7 +81,7 @@ export class ProjectsComponent {
         'Implemented role-based access control, ensuring only authorized users can manage documents.'
       ],
       techStack: ['Angular', 'Tailwind CSS', 'Flask (Python)', 'MongoDB', 'AWS'],
-      image: '/assets/docu-query-ai.webp',
+      image: '/assets/poke.png',
       aosImage: 'fade-left'
     }
   ];
