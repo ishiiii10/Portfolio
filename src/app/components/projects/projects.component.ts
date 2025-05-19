@@ -28,7 +28,7 @@ export class ProjectsComponent {
         'Scaled to 100+ active users and 50+ monthly transactions'
       ],
       techStack: ['React', 'Express.js', 'Node', 'Typescript', 'Mongodb', 'JWT-Auth'],
-      image: '/assets/kiit-ren.jpg',
+      image: '/assets/kiit-ren.png',
       aosImage: 'fade-right'
     },
     {
@@ -38,7 +38,7 @@ export class ProjectsComponent {
         'Designed and implemented a user-friendly interface using Angular with Flask backend to analyze smiles in real-time.'
       ],
       techStack: ['Angular', 'Python', 'SQL Server', 'AWS'],
-      image: '/assets/smile-project.webp',
+      image: '/assets/SmartApply.png',
       aosImage: 'fade-left'
     },
     {
@@ -48,7 +48,7 @@ export class ProjectsComponent {
         'The system provides assistance and information to guests in multiple languages, enhancing their overall experience while streamlining hotel operations.'
       ],
       techStack: ['Node.js', 'Python', 'OpenAI API', 'Flask', 'MongoDB', 'AWS'],
-      image: '/assets/ai-receptionist.webp',
+      image: '/assets/spark.jpg',
       aosImage: 'fade-right'
     },
     {
