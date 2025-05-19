@@ -10,6 +10,17 @@ import { Component } from '@angular/core';
 export class ProjectsComponent {
   projects = [
     {
+      title: 'RepoLens:AI-Powered GitHub Repository Summarizer & Documentation Generator',
+      description: [
+        'It is a web app that analyzes GitHub repositories using AI (CodeT5/StarCoder) to generate detailed project summaries and documentation automatically.',
+        'It extracts the tech stack, explains code structure, and creates README.md files to make undocumented or complex codebases easier to understand.',
+        'Built with React, Tailwind CSS, and Hugging Face models, CodexLens helps developers quickly grasp the purpose and logic behind any public repo.'
+      ],
+      techStack: ['React', 'Express.js', 'Node', 'Typescript', 'Mongodb', 'JWT-Auth'],
+      image: '/assets/kiit-ren.jpg',
+      aosImage: 'fade-right'
+    },
+    {
       title: 'KIIT Rentals',
       description: [
         'Designed a feature-rich MERN-based e-commerce platform for buying, selling, and renting products.',
