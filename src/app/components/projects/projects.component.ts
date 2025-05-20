@@ -80,7 +80,7 @@ export class ProjectsComponent {
         'Designed and integrated an Angular-based frontend with a Flask backend for seamless document processing.',
         'Implemented role-based access control, ensuring only authorized users can manage documents.'
       ],
-      techStack: ['Angular', 'Tailwind CSS', 'Flask (Python)', 'MongoDB', 'AWS'],
+      techStack: ['React', 'Typescript', 'Tailwind CSS', 'HTML', 'Javascript'],
       image: '/assets/poke.png',
       aosImage: 'fade-left'
     }
