@@ -19,7 +19,7 @@ export class ProjectsComponent {
         'Generated ATS score reports with personalized suggestions, reducing rejection rates by 60 percent.'
       ],
       techStack: ['Flask', 'Python', 'Selenium', 'Puppeteer', 'NLP', 'AI', 'LLM', 'pdfplumber'],
-      image: '/assets/git.png',
+      image: '/assets/app.png',
       aosImage: 'fade-right'
     },
     {
