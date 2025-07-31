@@ -10,6 +10,19 @@ import { Component } from '@angular/core';
 export class ProjectsComponent {
   projects = [
     {
+      title: 'Apply Smart:(AI-Powered Resume Builder & ATS Scoring System)',
+      description: [
+        'Developed an AI-powered ATS scoring system, increasing resume-job match accuracy by 85 percent.',
+        'Extracted key resume details from PDFs with 98 percent accuracy using pdfplumber.',
+        'Automated job description scraping from 500+ listings using Selenium and Puppeteer.',
+        'Optimized keyword relevance and experience alignment using an AI/NLP model.',
+        'Generated ATS score reports with personalized suggestions, reducing rejection rates by 60 percent.'
+      ],
+      techStack: ['Flask', 'Python', 'Selenium', 'Puppeteer', 'NLP', 'AI', 'LLM', 'pdfplumber'],
+      image: '/assets/git.png',
+      aosImage: 'fade-right'
+    },
+    {
       title: 'RepoLens:AI-Powered GitHub Repository Summarizer & Documentation Generator',
       description: [
         'Developed an AI-powered documentation tool that analyzes GitHub repositories using CodeT5/StarCoder models.',
@@ -31,16 +44,7 @@ export class ProjectsComponent {
       image: '/assets/kiit-ren.png',
       aosImage: 'fade-right'
     },
-    {
-      title: 'Smart Apply',
-      description: [
-        'Developed and deployed a smile detection application for elderly residents in Japanese old age homes using computer vision and machine learning algorithms.',
-        'Designed and implemented a user-friendly interface using Angular with Flask backend to analyze smiles in real-time.'
-      ],
-      techStack: ['Angular', 'Python', 'SQL Server', 'AWS'],
-      image: '/assets/SmartApply.png',
-      aosImage: 'fade-left'
-    },
+    
     {
       title: 'Health Spark Chat',
       description: [
